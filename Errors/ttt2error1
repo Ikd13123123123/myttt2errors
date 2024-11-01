@@ -1,0 +1,7 @@
+[TTT2 (Base) - v0.14.0b] gamemodes/terrortown/gamemode/shared/hud_elements/tttinfopanel/pure_skin_playerinfo.lua:210: bad argument #1 to 'upper' (string expected, got nil)
+  1. upper - [C]:-1
+   2. Draw - gamemodes/terrortown/gamemode/shared/hud_elements/tttinfopanel/pure_skin_playerinfo.lua:210
+    3. DrawElemAndChildren - gamemodes/terrortown/gamemode/shared/huds/base_huds/hud_base/cl_init.lua:328
+     4. Draw - gamemodes/terrortown/gamemode/shared/huds/base_huds/hud_base/cl_init.lua:354
+      5. DrawHUD - gamemodes/terrortown/gamemode/client/cl_hud_manager.lua:21
+       6. unknown - gamemodes/terrortown/gamemode/client/cl_hud_manager.lua:58 (x114)
